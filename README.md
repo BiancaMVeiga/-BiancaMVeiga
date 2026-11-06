@@ -2,13 +2,13 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&reversal=false&fontSize=40&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=60&theme=cobalt&text=Hello,%20World!%20👋" />
 </div>
 
-# Hey What's up?
+# Hey 👋 What's up?
 
 I’m **Bianca Veiga**, a Software Engineering student from São Paulo, Brazil.
 
 ---
 
-##  About me
+## 🚀 About me
 
 - 🔭 Software Engineering student
 - 🌱 Starting my programming journey in 2026
@@ -20,7 +20,7 @@ I’m **Bianca Veiga**, a Software Engineering student from São Paulo, Brazil.
 
 ---
 
-##  Arcade Zone
+## 🕹️ Arcade Zone
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Pac-Man Game Animation" width="100%" />
