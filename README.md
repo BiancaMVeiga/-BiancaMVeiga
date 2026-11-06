@@ -1,22 +1,21 @@
-
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&reversal=false&fontSize=40&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=60&theme=cobalt&text=Olá,%20Mundo!%20👋" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&reversal=false&fontSize=40&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=60&theme=cobalt&text=Hello,%20World!%20👋" />
 </div>
 
-# Hey 👋 What's up?
+# Hey, What's up?
 
-I’m **Bianca Veiga**, a Software Engineering student from São Paulo.
+I’m **Bianca Veiga**, a Software Engineering student from São Paulo, Brazil.
 
 ---
 
-🚀 About me
+## 🚀 About me
 
 - 🔭 Software Engineering student
 - 🌱 Starting my programming journey in 2026
-- 💻 **Currently studying:** Lógica de programação, algoritmos e análise de dados
+- 💻 **Currently studying:** Programming logic, algorithms, and data analytics
 - 🎯 **Goal:** Become a full-stack developer and contribute to open source projects
 - 💼 **Looking for:** An internship in software development
-- 🐛 Creating my first bugs (and learning to fix every one of them)
+- 🐛 Creating my first bugs (and learning to fix every single one of them)
 - ⚡ **Fun fact:** I spend 90% of my time naming variables and 10% actually coding
 
 ---
@@ -43,7 +42,7 @@ I’m **Bianca Veiga**, a Software Engineering student from São Paulo.
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 📊 GitHub Stats
 
 <div align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=BiancaMVeiga&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true" alt="GitHub Stats" />
@@ -52,7 +51,7 @@ I’m **Bianca Veiga**, a Software Engineering student from São Paulo.
 
 ---
 
-## 🎧 O que estou ouvindo no Spotify
+## 🎧 What I'm listening to on Spotify
 
 <div align="center">
   <img src="https://spotify-recently-played-readme.vercel.app/api?count=3&theme=cobalt" alt="Spotify recently played" />
@@ -60,7 +59,7 @@ I’m **Bianca Veiga**, a Software Engineering student from São Paulo.
 
 ---
 
-## 📫 Conecte-se comigo
+## 📫 Connect with me
 
 <div align="left">
   <a href="https://github.com/BiancaMVeiga" target="_blank">
