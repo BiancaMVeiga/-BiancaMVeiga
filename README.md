@@ -2,13 +2,13 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&reversal=false&fontSize=40&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=60&theme=cobalt&text=Hello,%20World!%20👋" />
 </div>
 
-# Hey, What's up?
+# Hey What's up?
 
 I’m **Bianca Veiga**, a Software Engineering student from São Paulo, Brazil.
 
 ---
 
- About me
+##  About me
 
 - 🔭 Software Engineering student
 - 🌱 Starting my programming journey in 2026
@@ -20,10 +20,10 @@ I’m **Bianca Veiga**, a Software Engineering student from São Paulo, Brazil.
 
 ---
 
-## 🕹️ Arcade Zone
+##  Arcade Zone
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Mayank-Mahajan/Mayank-Mahajan/user-statistic/pacman-contribution-graph/github-contribution-grid-snake.svg" alt="Pacman" />
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Pac-Man Game Animation" width="100%" />
 </div>
 
 ---
@@ -73,11 +73,15 @@ I’m **Bianca Veiga**, a Software Engineering student from São Paulo, Brazil.
 
 <div align="left">
   <a href="https://github.com/BiancaMVeiga" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/github/default.svg" width="52" height="40" alt="github logo" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo" />
   </a>
   <img width="12" />
   <a href="https://discord.com/users/biadashvey19" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo" />
+  </a>
+  <img width="12" />
+  <a href="https://www.linkedin.com/in/bianca-veiga-bmw" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo" />
   </a>
 </div>
 
