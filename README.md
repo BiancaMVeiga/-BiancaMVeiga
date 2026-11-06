@@ -8,7 +8,7 @@ I’m **Bianca Veiga**, a Software Engineering student from São Paulo, Brazil.
 
 ---
 
-## 🚀 About me
+ About me
 
 - 🔭 Software Engineering student
 - 🌱 Starting my programming journey in 2026
@@ -17,6 +17,14 @@ I’m **Bianca Veiga**, a Software Engineering student from São Paulo, Brazil.
 - 💼 **Looking for:** An internship in software development
 - 🐛 Creating my first bugs (and learning to fix every single one of them)
 - ⚡ **Fun fact:** I spend 90% of my time naming variables and 10% actually coding
+
+---
+
+## 🕹️ Arcade Zone
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Mayank-Mahajan/Mayank-Mahajan/user-statistic/pacman-contribution-graph/github-contribution-grid-snake.svg" alt="Pacman" />
+</div>
 
 ---
 
@@ -54,7 +62,9 @@ I’m **Bianca Veiga**, a Software Engineering student from São Paulo, Brazil.
 ## 🎧 What I'm listening to on Spotify
 
 <div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?count=3&theme=cobalt" alt="Spotify recently played" />
+  <a href="https://open.spotify.com" target="_blank">
+    <img src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=knzhxnnkn2dd3ccukgzj3cldt&theme=dracula&time=0&now_playing=0&explicit=0&footer=wave&artist_color=f995ca" alt="Spotify recently played" />
+  </a>
 </div>
 
 ---
@@ -64,6 +74,10 @@ I’m **Bianca Veiga**, a Software Engineering student from São Paulo, Brazil.
 <div align="left">
   <a href="https://github.com/BiancaMVeiga" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/github/default.svg" width="52" height="40" alt="github logo" />
+  </a>
+  <img width="12" />
+  <a href="https://discord.com/users/biadashvey19" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo" />
   </a>
 </div>
 
