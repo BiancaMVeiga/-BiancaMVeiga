@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&reversal=false&fontSize=40&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=60&theme=cobalt&text=Hello,%20World!%20👋" />
 </div>
 
-# Hey 👋 What's up?
+# Hey,  What's up?
 
 I’m **Bianca Veiga**, a Software Engineering student from São Paulo, Brazil.
 
@@ -53,8 +53,7 @@ I’m **Bianca Veiga**, a Software Engineering student from São Paulo, Brazil.
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=BiancaMVeiga&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BiancaMVeiga&layout=compact&theme=cobalt" alt="Top Langs" />
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=BiancaMVeiga&theme=cobalt&hide_border=true" alt="GitHub Streak Stats" />
 </div>
 
 ---
